@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SHMS system</title>
+    <%- include('./partials/css.ejs') %>
+  </head>
+  <body>
+    <div class="mb-4">
+      <%- include("./partials/navBar.ejs") %>
+
+      <a href="/patient/create" class="btn btn-primary btn-sm"
+        >Add a new Patient</a
+      >
+    </div>
+<%- include("./partials/errMsg.ejs") %>
+
+
+    <div class="container">
+      <div class="row">
+        <% if (patients && patients.length > 0) { %> <%
+        patients.forEach(function(patient) { %>
+        <div class="col-md-4 mb-2">
+          <div class="card p-2">
+            <div class="card-body">
+              <h4 class="card-title"><a href="/patient/<%= patient.PatientID %>">Patient ID: <%= patient.PatientID %></a></h5>
+              <p class="card-text">Name: <%= patient.Name %></p>
+              <p class="card-text">Date of Birth: <%= patient.DateOfBirth %></p>
+              <p class="card-text">Address: <%= patient.Address %></p>
+              <p class="card-text">Insurance ID: <%= patient.InsuranceID %></p>
+              <a
+                href="/patient/<%= patient.PatientID %>/edit"
+                class="btn btn-primary"
+                >Edit</a
+              >
+              <a
+                href="/patient/<%= patient.PatientID %>/delete"
+                class="btn btn-danger"
+                >Delete</a
+              >
+            </div>
+          </div>
+        </div>
+        <% }); %> <% } else { %>
+        <p>No patient records found.</p>
+        <% } %>
+      </div>
+            <%- include("./partials/footer.ejs") %>
+
+    </div>
+  </body>
+</html>
