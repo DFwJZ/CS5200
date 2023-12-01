@@ -1,0 +1,501 @@
+PatientID,Diagnosis,Treatment,DoctorID,TreatmentPlanID
+1130455,Hypertension,"Medication management, lifestyle modifications",351,3502475
+1868240,Hypertension,"Medication management, lifestyle modifications",14,3504767
+1369805,Hypertension,"Medication management, lifestyle modifications",246,3505201
+1438896,Diabetes,"Insulin therapy, dietary changes",245,3505838
+1041562,Hypertension,"Medication management, lifestyle modifications",473,3506361
+1330982,Hypertension,"Medication management, lifestyle modifications",150,3511659
+1600910,Diabetes,"Insulin therapy, dietary changes",107,3511760
+1326949,Asthma,"Inhalers, lifestyle changes",478,3511967
+1624581,Skin Cancer,"Surgery, radiation therapy",422,3512433
+1644215,Diabetes,"Insulin therapy, dietary changes",183,3512901
+1552307,Asthma,"Inhalers, lifestyle changes",476,3515117
+1887078,Diabetes,"Insulin therapy, dietary changes",18,3515760
+1285814,Asthma,"Inhalers, lifestyle changes",7,3525511
+1425048,Arthritis,"Physical therapy, anti-inflammatory medications",291,3526552
+1871110,Arthritis,"Physical therapy, anti-inflammatory medications",357,3528497
+1298859,Asthma,"Inhalers, lifestyle changes",94,3531688
+1672186,Hypertension,"Medication management, lifestyle modifications",59,3532059
+1697502,Hypertension,"Medication management, lifestyle modifications",238,3533818
+1756700,Skin Cancer,"Surgery, radiation therapy",231,3533993
+1243800,Asthma,"Inhalers, lifestyle changes",116,3535191
+1267555,Diabetes,"Insulin therapy, dietary changes",12,3539219
+1235086,Diabetes,"Insulin therapy, dietary changes",25,3539741
+1539259,Skin Cancer,"Surgery, radiation therapy",273,3540341
+1023627,Skin Cancer,"Surgery, radiation therapy",106,3541471
+1617600,Skin Cancer,"Surgery, radiation therapy",120,3545428
+1488299,Arthritis,"Physical therapy, anti-inflammatory medications",337,3545630
+1877474,Arthritis,"Physical therapy, anti-inflammatory medications",226,3545977
+1797248,Diabetes,"Insulin therapy, dietary changes",51,3547333
+1363192,Diabetes,"Insulin therapy, dietary changes",393,3554175
+1039765,Diabetes,"Insulin therapy, dietary changes",408,3554248
+1053301,Skin Cancer,"Surgery, radiation therapy",133,3554564
+1906052,Hypertension,"Medication management, lifestyle modifications",362,3555740
+1020838,Arthritis,"Physical therapy, anti-inflammatory medications",110,3560370
+1084123,Arthritis,"Physical therapy, anti-inflammatory medications",67,3560677
+1856038,Diabetes,"Insulin therapy, dietary changes",383,3565986
+1676880,Hypertension,"Medication management, lifestyle modifications",140,3566734
+1287579,Arthritis,"Physical therapy, anti-inflammatory medications",84,3569616
+1793507,Hypertension,"Medication management, lifestyle modifications",221,3571375
+1453967,Diabetes,"Insulin therapy, dietary changes",452,3574573
+1615616,Skin Cancer,"Surgery, radiation therapy",331,3575173
+1437688,Asthma,"Inhalers, lifestyle changes",491,3575220
+1165070,Skin Cancer,"Surgery, radiation therapy",439,3575496
+1819993,Arthritis,"Physical therapy, anti-inflammatory medications",410,3578917
+1411312,Skin Cancer,"Surgery, radiation therapy",406,3581385
+1067318,Hypertension,"Medication management, lifestyle modifications",325,3582950
+1855530,Skin Cancer,"Surgery, radiation therapy",293,3583643
+1571874,Arthritis,"Physical therapy, anti-inflammatory medications",21,3583824
+1428294,Asthma,"Inhalers, lifestyle changes",156,3584760
+1156018,Diabetes,"Insulin therapy, dietary changes",275,3586530
+1173943,Asthma,"Inhalers, lifestyle changes",276,3587542
+1026091,Hypertension,"Medication management, lifestyle modifications",329,3587609
+1025220,Skin Cancer,"Surgery, radiation therapy",130,3588141
+1463215,Hypertension,"Medication management, lifestyle modifications",493,3593107
+1080490,Skin Cancer,"Surgery, radiation therapy",194,3597170
+1865491,Diabetes,"Insulin therapy, dietary changes",155,3598149
+1673218,Skin Cancer,"Surgery, radiation therapy",125,3598464
+1569929,Skin Cancer,"Surgery, radiation therapy",234,3599136
+1569110,Diabetes,"Insulin therapy, dietary changes",28,3599471
+1119271,Asthma,"Inhalers, lifestyle changes",415,3600510
+1843668,Skin Cancer,"Surgery, radiation therapy",460,3602069
+1548640,Diabetes,"Insulin therapy, dietary changes",209,3604864
+1805242,Asthma,"Inhalers, lifestyle changes",280,3608099
+1722987,Asthma,"Inhalers, lifestyle changes",407,3608914
+1376423,Skin Cancer,"Surgery, radiation therapy",477,3610029
+1151217,Diabetes,"Insulin therapy, dietary changes",404,3610800
+1093235,Skin Cancer,"Surgery, radiation therapy",212,3612564
+1266865,Arthritis,"Physical therapy, anti-inflammatory medications",344,3613484
+1996401,Skin Cancer,"Surgery, radiation therapy",62,3615527
+1868547,Asthma,"Inhalers, lifestyle changes",236,3623834
+1148287,Arthritis,"Physical therapy, anti-inflammatory medications",498,3628110
+1797514,Skin Cancer,"Surgery, radiation therapy",264,3631008
+1200038,Hypertension,"Medication management, lifestyle modifications",65,3631047
+1125876,Arthritis,"Physical therapy, anti-inflammatory medications",203,3633013
+1153868,Hypertension,"Medication management, lifestyle modifications",63,3642664
+1391821,Diabetes,"Insulin therapy, dietary changes",161,3643910
+1455154,Arthritis,"Physical therapy, anti-inflammatory medications",485,3647513
+1769484,Hypertension,"Medication management, lifestyle modifications",211,3649504
+1628546,Arthritis,"Physical therapy, anti-inflammatory medications",431,3650359
+1515023,Skin Cancer,"Surgery, radiation therapy",54,3654214
+1967721,Arthritis,"Physical therapy, anti-inflammatory medications",224,3657693
+1291903,Arthritis,"Physical therapy, anti-inflammatory medications",88,3659762
+1473575,Skin Cancer,"Surgery, radiation therapy",121,3660107
+1850582,Hypertension,"Medication management, lifestyle modifications",480,3666180
+1469216,Skin Cancer,"Surgery, radiation therapy",414,3668635
+1282771,Arthritis,"Physical therapy, anti-inflammatory medications",298,3672935
+1121872,Hypertension,"Medication management, lifestyle modifications",332,3673336
+1026010,Arthritis,"Physical therapy, anti-inflammatory medications",240,3674143
+1501572,Asthma,"Inhalers, lifestyle changes",432,3674357
+1495556,Asthma,"Inhalers, lifestyle changes",16,3674572
+1776412,Arthritis,"Physical therapy, anti-inflammatory medications",400,3680976
+1120146,Skin Cancer,"Surgery, radiation therapy",369,3681363
+1640438,Diabetes,"Insulin therapy, dietary changes",446,3683197
+1282806,Asthma,"Inhalers, lifestyle changes",202,3685047
+1158175,Asthma,"Inhalers, lifestyle changes",19,3691241
+1087026,Hypertension,"Medication management, lifestyle modifications",354,3694544
+1836932,Skin Cancer,"Surgery, radiation therapy",440,3694619
+1944702,Hypertension,"Medication management, lifestyle modifications",126,3695380
+1838366,Asthma,"Inhalers, lifestyle changes",436,3695674
+1883804,Diabetes,"Insulin therapy, dietary changes",195,3696709
+1878707,Hypertension,"Medication management, lifestyle modifications",168,3705333
+1016040,Hypertension,"Medication management, lifestyle modifications",314,3707585
+1843510,Asthma,"Inhalers, lifestyle changes",199,3711231
+1469245,Skin Cancer,"Surgery, radiation therapy",72,3713072
+1296441,Diabetes,"Insulin therapy, dietary changes",307,3715046
+1143341,Skin Cancer,"Surgery, radiation therapy",489,3717108
+1740987,Diabetes,"Insulin therapy, dietary changes",5,3717878
+1677690,Diabetes,"Insulin therapy, dietary changes",306,3719627
+1782852,Skin Cancer,"Surgery, radiation therapy",31,3726664
+1118627,Diabetes,"Insulin therapy, dietary changes",258,3732885
+1290412,Asthma,"Inhalers, lifestyle changes",311,3733492
+1003884,Skin Cancer,"Surgery, radiation therapy",382,3736477
+1905849,Asthma,"Inhalers, lifestyle changes",75,3736664
+1760407,Diabetes,"Insulin therapy, dietary changes",418,3737518
+1756973,Arthritis,"Physical therapy, anti-inflammatory medications",271,3737750
+1858060,Asthma,"Inhalers, lifestyle changes",378,3737858
+1835047,Hypertension,"Medication management, lifestyle modifications",213,3738462
+1098742,Diabetes,"Insulin therapy, dietary changes",61,3739857
+1807666,Diabetes,"Insulin therapy, dietary changes",35,3744073
+1483432,Diabetes,"Insulin therapy, dietary changes",381,3746564
+1191394,Arthritis,"Physical therapy, anti-inflammatory medications",425,3746930
+1450893,Skin Cancer,"Surgery, radiation therapy",127,3747170
+1086913,Diabetes,"Insulin therapy, dietary changes",399,3749585
+1094458,Hypertension,"Medication management, lifestyle modifications",377,3751014
+1781757,Asthma,"Inhalers, lifestyle changes",22,3754413
+1941876,Diabetes,"Insulin therapy, dietary changes",327,3758244
+1273987,Diabetes,"Insulin therapy, dietary changes",254,3761896
+1279232,Diabetes,"Insulin therapy, dietary changes",438,3762961
+1119283,Asthma,"Inhalers, lifestyle changes",350,3763801
+1880808,Arthritis,"Physical therapy, anti-inflammatory medications",154,3764221
+1849949,Diabetes,"Insulin therapy, dietary changes",184,3765815
+1751096,Diabetes,"Insulin therapy, dietary changes",303,3765865
+1488462,Diabetes,"Insulin therapy, dietary changes",423,3765956
+1132522,Hypertension,"Medication management, lifestyle modifications",36,3766481
+1683897,Hypertension,"Medication management, lifestyle modifications",171,3767967
+1556881,Asthma,"Inhalers, lifestyle changes",142,3769900
+1792065,Asthma,"Inhalers, lifestyle changes",389,3770159
+1699554,Arthritis,"Physical therapy, anti-inflammatory medications",379,3771959
+1761872,Asthma,"Inhalers, lifestyle changes",200,3772296
+1557341,Arthritis,"Physical therapy, anti-inflammatory medications",384,3772549
+1825938,Asthma,"Inhalers, lifestyle changes",190,3773443
+1156389,Asthma,"Inhalers, lifestyle changes",490,3776258
+1265858,Asthma,"Inhalers, lifestyle changes",359,3779046
+1374375,Skin Cancer,"Surgery, radiation therapy",391,3780850
+1079673,Diabetes,"Insulin therapy, dietary changes",108,3782822
+1313117,Skin Cancer,"Surgery, radiation therapy",132,3782949
+1067326,Hypertension,"Medication management, lifestyle modifications",146,3783738
+1336287,Hypertension,"Medication management, lifestyle modifications",27,3784385
+1065120,Asthma,"Inhalers, lifestyle changes",313,3787241
+1025154,Asthma,"Inhalers, lifestyle changes",456,3787358
+1762431,Hypertension,"Medication management, lifestyle modifications",349,3789234
+1484091,Arthritis,"Physical therapy, anti-inflammatory medications",64,3793140
+1114831,Asthma,"Inhalers, lifestyle changes",495,3794560
+1354774,Arthritis,"Physical therapy, anti-inflammatory medications",262,3796445
+1164447,Arthritis,"Physical therapy, anti-inflammatory medications",55,3800032
+1373096,Arthritis,"Physical therapy, anti-inflammatory medications",148,3802824
+1644397,Arthritis,"Physical therapy, anti-inflammatory medications",152,3810620
+1713189,Arthritis,"Physical therapy, anti-inflammatory medications",252,3811703
+1135344,Asthma,"Inhalers, lifestyle changes",48,3812085
+1024360,Diabetes,"Insulin therapy, dietary changes",163,3812767
+1131833,Arthritis,"Physical therapy, anti-inflammatory medications",136,3813452
+1942671,Hypertension,"Medication management, lifestyle modifications",218,3815560
+1131416,Arthritis,"Physical therapy, anti-inflammatory medications",100,3817258
+1256536,Hypertension,"Medication management, lifestyle modifications",343,3819382
+1500854,Arthritis,"Physical therapy, anti-inflammatory medications",210,3820374
+1575872,Hypertension,"Medication management, lifestyle modifications",17,3820940
+1811736,Skin Cancer,"Surgery, radiation therapy",405,3822146
+1624006,Hypertension,"Medication management, lifestyle modifications",380,3823142
+1779504,Diabetes,"Insulin therapy, dietary changes",398,3823916
+1425481,Arthritis,"Physical therapy, anti-inflammatory medications",11,3824625
+1673723,Arthritis,"Physical therapy, anti-inflammatory medications",243,3831724
+1907045,Skin Cancer,"Surgery, radiation therapy",443,3832820
+1193029,Diabetes,"Insulin therapy, dietary changes",471,3838444
+1198345,Hypertension,"Medication management, lifestyle modifications",265,3839090
+1796222,Asthma,"Inhalers, lifestyle changes",472,3841378
+1387352,Hypertension,"Medication management, lifestyle modifications",177,3850055
+1748549,Hypertension,"Medication management, lifestyle modifications",167,3852503
+1740906,Skin Cancer,"Surgery, radiation therapy",96,3854603
+1580675,Diabetes,"Insulin therapy, dietary changes",227,3859870
+1654885,Asthma,"Inhalers, lifestyle changes",29,3860618
+1919819,Asthma,"Inhalers, lifestyle changes",455,3860818
+1655658,Asthma,"Inhalers, lifestyle changes",180,3864066
+1622885,Hypertension,"Medication management, lifestyle modifications",220,3864409
+1206451,Hypertension,"Medication management, lifestyle modifications",124,3864511
+1474020,Diabetes,"Insulin therapy, dietary changes",128,3865294
+1442753,Diabetes,"Insulin therapy, dietary changes",457,3867410
+1325346,Asthma,"Inhalers, lifestyle changes",466,3870577
+1209931,Skin Cancer,"Surgery, radiation therapy",385,3873821
+1201887,Skin Cancer,"Surgery, radiation therapy",79,3874620
+1081873,Hypertension,"Medication management, lifestyle modifications",323,3875153
+1912706,Asthma,"Inhalers, lifestyle changes",347,3876794
+1908884,Diabetes,"Insulin therapy, dietary changes",32,3877559
+1165490,Skin Cancer,"Surgery, radiation therapy",170,3877585
+1686827,Hypertension,"Medication management, lifestyle modifications",244,3880063
+1860805,Asthma,"Inhalers, lifestyle changes",449,3880844
+1318540,Skin Cancer,"Surgery, radiation therapy",56,3881134
+1528915,Asthma,"Inhalers, lifestyle changes",80,3882159
+1668354,Arthritis,"Physical therapy, anti-inflammatory medications",358,3883904
+1455218,Diabetes,"Insulin therapy, dietary changes",412,3885481
+1086939,Asthma,"Inhalers, lifestyle changes",416,3887286
+1310431,Skin Cancer,"Surgery, radiation therapy",268,3887356
+1806543,Skin Cancer,"Surgery, radiation therapy",114,3889025
+1311914,Skin Cancer,"Surgery, radiation therapy",87,3890110
+1192296,Arthritis,"Physical therapy, anti-inflammatory medications",279,3891221
+1185432,Diabetes,"Insulin therapy, dietary changes",464,3892199
+1401456,Diabetes,"Insulin therapy, dietary changes",326,3892705
+1157556,Asthma,"Inhalers, lifestyle changes",137,3894021
+1360037,Diabetes,"Insulin therapy, dietary changes",52,3903658
+1702635,Arthritis,"Physical therapy, anti-inflammatory medications",239,3904134
+1620872,Hypertension,"Medication management, lifestyle modifications",437,3905720
+1965083,Arthritis,"Physical therapy, anti-inflammatory medications",305,3912223
+1614985,Diabetes,"Insulin therapy, dietary changes",247,3912760
+1731469,Asthma,"Inhalers, lifestyle changes",83,3921590
+1951192,Diabetes,"Insulin therapy, dietary changes",284,3922465
+1283589,Skin Cancer,"Surgery, radiation therapy",147,3928672
+1829716,Skin Cancer,"Surgery, radiation therapy",74,3930683
+1167244,Arthritis,"Physical therapy, anti-inflammatory medications",135,3933503
+1736639,Skin Cancer,"Surgery, radiation therapy",352,3937090
+1981744,Asthma,"Inhalers, lifestyle changes",113,3940050
+1502679,Hypertension,"Medication management, lifestyle modifications",77,3940438
+1156954,Arthritis,"Physical therapy, anti-inflammatory medications",286,3943576
+1951298,Asthma,"Inhalers, lifestyle changes",39,3944247
+1700830,Skin Cancer,"Surgery, radiation therapy",479,3944545
+1337947,Asthma,"Inhalers, lifestyle changes",259,3949898
+1389306,Diabetes,"Insulin therapy, dietary changes",122,3950423
+1914918,Skin Cancer,"Surgery, radiation therapy",281,3950517
+1293567,Diabetes,"Insulin therapy, dietary changes",85,3952038
+1495592,Diabetes,"Insulin therapy, dietary changes",97,3952044
+1262259,Diabetes,"Insulin therapy, dietary changes",141,3952167
+1250286,Diabetes,"Insulin therapy, dietary changes",447,3959614
+1153212,Hypertension,"Medication management, lifestyle modifications",115,3959621
+1675821,Diabetes,"Insulin therapy, dietary changes",13,3963354
+1841012,Hypertension,"Medication management, lifestyle modifications",270,3969794
+1478591,Arthritis,"Physical therapy, anti-inflammatory medications",143,3971046
+1390502,Hypertension,"Medication management, lifestyle modifications",78,3975852
+1055851,Hypertension,"Medication management, lifestyle modifications",328,3978517
+1511835,Skin Cancer,"Surgery, radiation therapy",68,3980192
+1266189,Asthma,"Inhalers, lifestyle changes",228,3980556
+1610164,Arthritis,"Physical therapy, anti-inflammatory medications",287,3980564
+1798870,Diabetes,"Insulin therapy, dietary changes",187,3982867
+1530309,Asthma,"Inhalers, lifestyle changes",288,3985081
+1198310,Arthritis,"Physical therapy, anti-inflammatory medications",34,3988429
+1328529,Hypertension,"Medication management, lifestyle modifications",339,3995943
+1291848,Asthma,"Inhalers, lifestyle changes",386,3996993
+1301930,Asthma,"Inhalers, lifestyle changes",40,3997815
+1023308,Arthritis,"Physical therapy, anti-inflammatory medications",242,4002289
+1248772,Arthritis,"Physical therapy, anti-inflammatory medications",92,4003128
+1932437,Arthritis,"Physical therapy, anti-inflammatory medications",346,4004775
+1134425,Asthma,"Inhalers, lifestyle changes",426,4007594
+1208457,Skin Cancer,"Surgery, radiation therapy",10,4008121
+1625645,Diabetes,"Insulin therapy, dietary changes",58,4012769
+1519243,Asthma,"Inhalers, lifestyle changes",196,4013294
+1798122,Arthritis,"Physical therapy, anti-inflammatory medications",182,4015972
+1820080,Arthritis,"Physical therapy, anti-inflammatory medications",401,4017716
+1373616,Arthritis,"Physical therapy, anti-inflammatory medications",365,4019769
+1237367,Skin Cancer,"Surgery, radiation therapy",475,4019834
+1451995,Hypertension,"Medication management, lifestyle modifications",336,4021706
+1893512,Skin Cancer,"Surgery, radiation therapy",225,4022750
+1485736,Arthritis,"Physical therapy, anti-inflammatory medications",345,4026465
+1768508,Diabetes,"Insulin therapy, dietary changes",222,4028103
+1672483,Skin Cancer,"Surgery, radiation therapy",299,4029696
+1264569,Skin Cancer,"Surgery, radiation therapy",6,4031085
+1299038,Skin Cancer,"Surgery, radiation therapy",208,4033193
+1134224,Diabetes,"Insulin therapy, dietary changes",294,4037753
+1933472,Diabetes,"Insulin therapy, dietary changes",470,4037851
+1014005,Asthma,"Inhalers, lifestyle changes",1,4038036
+1137105,Hypertension,"Medication management, lifestyle modifications",309,4038699
+1977272,Diabetes,"Insulin therapy, dietary changes",119,4039646
+1856722,Hypertension,"Medication management, lifestyle modifications",189,4040300
+1111832,Skin Cancer,"Surgery, radiation therapy",71,4043739
+1598397,Asthma,"Inhalers, lifestyle changes",315,4046139
+1748558,Arthritis,"Physical therapy, anti-inflammatory medications",253,4046355
+1876600,Hypertension,"Medication management, lifestyle modifications",361,4048195
+1399233,Arthritis,"Physical therapy, anti-inflammatory medications",186,4048680
+1678580,Skin Cancer,"Surgery, radiation therapy",90,4049816
+1578201,Skin Cancer,"Surgery, radiation therapy",197,4050830
+1504763,Asthma,"Inhalers, lifestyle changes",444,4053404
+1287834,Hypertension,"Medication management, lifestyle modifications",179,4054112
+1355171,Hypertension,"Medication management, lifestyle modifications",111,4058957
+1511666,Hypertension,"Medication management, lifestyle modifications",461,4060125
+1047839,Hypertension,"Medication management, lifestyle modifications",360,4067895
+1409418,Hypertension,"Medication management, lifestyle modifications",430,4068825
+1488511,Hypertension,"Medication management, lifestyle modifications",101,4073085
+1077969,Skin Cancer,"Surgery, radiation therapy",338,4073154
+1679203,Arthritis,"Physical therapy, anti-inflammatory medications",256,4074487
+1778089,Hypertension,"Medication management, lifestyle modifications",500,4076002
+1216032,Asthma,"Inhalers, lifestyle changes",483,4078328
+1400782,Hypertension,"Medication management, lifestyle modifications",368,4078619
+1011017,Skin Cancer,"Surgery, radiation therapy",396,4084426
+1180115,Hypertension,"Medication management, lifestyle modifications",413,4084774
+1723763,Diabetes,"Insulin therapy, dietary changes",248,4084787
+1263406,Diabetes,"Insulin therapy, dietary changes",417,4087637
+1584156,Arthritis,"Physical therapy, anti-inflammatory medications",340,4088703
+1928066,Hypertension,"Medication management, lifestyle modifications",192,4089380
+1953162,Arthritis,"Physical therapy, anti-inflammatory medications",458,4090650
+1014705,Hypertension,"Medication management, lifestyle modifications",37,4090787
+1606690,Asthma,"Inhalers, lifestyle changes",117,4094597
+1963317,Hypertension,"Medication management, lifestyle modifications",159,4094769
+1839715,Hypertension,"Medication management, lifestyle modifications",274,4096540
+1664564,Diabetes,"Insulin therapy, dietary changes",394,4099148
+1647606,Arthritis,"Physical therapy, anti-inflammatory medications",33,4102821
+1340346,Skin Cancer,"Surgery, radiation therapy",93,4105501
+1906727,Diabetes,"Insulin therapy, dietary changes",57,4106341
+1321898,Hypertension,"Medication management, lifestyle modifications",421,4114965
+1214032,Skin Cancer,"Surgery, radiation therapy",201,4116417
+1127109,Arthritis,"Physical therapy, anti-inflammatory medications",104,4116437
+1182587,Hypertension,"Medication management, lifestyle modifications",487,4121711
+1609307,Hypertension,"Medication management, lifestyle modifications",433,4122494
+1709888,Arthritis,"Physical therapy, anti-inflammatory medications",335,4126117
+1241448,Diabetes,"Insulin therapy, dietary changes",3,4126903
+1469203,Diabetes,"Insulin therapy, dietary changes",232,4128220
+1503714,Asthma,"Inhalers, lifestyle changes",233,4128642
+1095995,Diabetes,"Insulin therapy, dietary changes",229,4129182
+1141179,Arthritis,"Physical therapy, anti-inflammatory medications",300,4129186
+1778065,Diabetes,"Insulin therapy, dietary changes",257,4131356
+1245948,Asthma,"Inhalers, lifestyle changes",260,4132881
+1647851,Hypertension,"Medication management, lifestyle modifications",310,4133189
+1514615,Hypertension,"Medication management, lifestyle modifications",44,4133634
+1498770,Skin Cancer,"Surgery, radiation therapy",289,4135737
+1570506,Arthritis,"Physical therapy, anti-inflammatory medications",434,4135884
+1240545,Hypertension,"Medication management, lifestyle modifications",494,4139726
+1136414,Skin Cancer,"Surgery, radiation therapy",292,4141703
+1540613,Hypertension,"Medication management, lifestyle modifications",81,4143941
+1700885,Hypertension,"Medication management, lifestyle modifications",43,4144847
+1339593,Asthma,"Inhalers, lifestyle changes",139,4146342
+1052775,Asthma,"Inhalers, lifestyle changes",185,4146399
+1735346,Hypertension,"Medication management, lifestyle modifications",191,4149375
+1414173,Asthma,"Inhalers, lifestyle changes",50,4149936
+1066463,Skin Cancer,"Surgery, radiation therapy",70,4149990
+1923378,Arthritis,"Physical therapy, anti-inflammatory medications",403,4154992
+1156373,Hypertension,"Medication management, lifestyle modifications",172,4156473
+1575811,Diabetes,"Insulin therapy, dietary changes",91,4157021
+1576173,Skin Cancer,"Surgery, radiation therapy",46,4158169
+1636816,Diabetes,"Insulin therapy, dietary changes",49,4164190
+1085541,Hypertension,"Medication management, lifestyle modifications",497,4166839
+1504865,Arthritis,"Physical therapy, anti-inflammatory medications",467,4166906
+1929770,Diabetes,"Insulin therapy, dietary changes",482,4167113
+1083653,Skin Cancer,"Surgery, radiation therapy",334,4168025
+1339982,Arthritis,"Physical therapy, anti-inflammatory medications",367,4168155
+1324243,Arthritis,"Physical therapy, anti-inflammatory medications",435,4168876
+1585540,Arthritis,"Physical therapy, anti-inflammatory medications",24,4170170
+1558098,Arthritis,"Physical therapy, anti-inflammatory medications",348,4171008
+1000638,Hypertension,"Medication management, lifestyle modifications",419,4171486
+1817786,Diabetes,"Insulin therapy, dietary changes",89,4171562
+1154691,Diabetes,"Insulin therapy, dietary changes",41,4171712
+1892268,Skin Cancer,"Surgery, radiation therapy",356,4173194
+1968510,Diabetes,"Insulin therapy, dietary changes",342,4182418
+1933571,Diabetes,"Insulin therapy, dietary changes",173,4184256
+1542669,Arthritis,"Physical therapy, anti-inflammatory medications",370,4187498
+1034605,Skin Cancer,"Surgery, radiation therapy",4,4190024
+1662727,Arthritis,"Physical therapy, anti-inflammatory medications",123,4195110
+1930187,Hypertension,"Medication management, lifestyle modifications",251,4195858
+1949481,Asthma,"Inhalers, lifestyle changes",355,4204488
+1381434,Diabetes,"Insulin therapy, dietary changes",451,4204914
+1712294,Hypertension,"Medication management, lifestyle modifications",188,4205891
+1946095,Skin Cancer,"Surgery, radiation therapy",324,4207897
+1849676,Arthritis,"Physical therapy, anti-inflammatory medications",255,4211718
+1747728,Hypertension,"Medication management, lifestyle modifications",318,4213167
+1316496,Diabetes,"Insulin therapy, dietary changes",277,4213326
+1615644,Asthma,"Inhalers, lifestyle changes",42,4213915
+1132979,Asthma,"Inhalers, lifestyle changes",206,4214387
+1582294,Skin Cancer,"Surgery, radiation therapy",388,4214427
+1515888,Arthritis,"Physical therapy, anti-inflammatory medications",131,4217605
+1141722,Arthritis,"Physical therapy, anti-inflammatory medications",392,4218418
+1665887,Hypertension,"Medication management, lifestyle modifications",333,4218768
+1933896,Asthma,"Inhalers, lifestyle changes",395,4219085
+1129006,Hypertension,"Medication management, lifestyle modifications",290,4223391
+1904666,Hypertension,"Medication management, lifestyle modifications",47,4227695
+1809690,Arthritis,"Physical therapy, anti-inflammatory medications",102,4228139
+1504328,Diabetes,"Insulin therapy, dietary changes",330,4232537
+1236000,Arthritis,"Physical therapy, anti-inflammatory medications",363,4232938
+1903935,Diabetes,"Insulin therapy, dietary changes",295,4233713
+1768451,Diabetes,"Insulin therapy, dietary changes",15,4234960
+1623528,Diabetes,"Insulin therapy, dietary changes",459,4236303
+1928860,Hypertension,"Medication management, lifestyle modifications",103,4236964
+1131044,Asthma,"Inhalers, lifestyle changes",219,4239715
+1384924,Asthma,"Inhalers, lifestyle changes",278,4241384
+1142909,Asthma,"Inhalers, lifestyle changes",320,4245021
+1267634,Asthma,"Inhalers, lifestyle changes",241,4253880
+1063547,Hypertension,"Medication management, lifestyle modifications",26,4254134
+1683672,Asthma,"Inhalers, lifestyle changes",496,4255621
+1157499,Arthritis,"Physical therapy, anti-inflammatory medications",95,4256614
+1150331,Skin Cancer,"Surgery, radiation therapy",373,4257585
+1878728,Hypertension,"Medication management, lifestyle modifications",66,4258495
+1855633,Diabetes,"Insulin therapy, dietary changes",198,4259275
+1182144,Hypertension,"Medication management, lifestyle modifications",463,4259683
+1954700,Asthma,"Inhalers, lifestyle changes",424,4260455
+1013219,Asthma,"Inhalers, lifestyle changes",160,4264254
+1650270,Arthritis,"Physical therapy, anti-inflammatory medications",376,4265619
+1820440,Skin Cancer,"Surgery, radiation therapy",129,4266516
+1217595,Skin Cancer,"Surgery, radiation therapy",99,4267467
+1612334,Diabetes,"Insulin therapy, dietary changes",319,4269834
+1641899,Diabetes,"Insulin therapy, dietary changes",316,4270138
+1416490,Hypertension,"Medication management, lifestyle modifications",162,4274441
+1753805,Diabetes,"Insulin therapy, dietary changes",390,4275613
+1468036,Hypertension,"Medication management, lifestyle modifications",269,4275793
+1902643,Hypertension,"Medication management, lifestyle modifications",321,4275842
+1675804,Skin Cancer,"Surgery, radiation therapy",157,4277737
+1827987,Hypertension,"Medication management, lifestyle modifications",223,4285094
+1766435,Skin Cancer,"Surgery, radiation therapy",308,4292284
+1047643,Skin Cancer,"Surgery, radiation therapy",82,4294332
+1270314,Asthma,"Inhalers, lifestyle changes",144,4295054
+1140087,Arthritis,"Physical therapy, anti-inflammatory medications",176,4295263
+1320828,Asthma,"Inhalers, lifestyle changes",465,4295417
+1967763,Skin Cancer,"Surgery, radiation therapy",165,4297621
+1963199,Skin Cancer,"Surgery, radiation therapy",118,4298602
+1571366,Arthritis,"Physical therapy, anti-inflammatory medications",205,4299824
+1517780,Asthma,"Inhalers, lifestyle changes",267,4300942
+1864361,Diabetes,"Insulin therapy, dietary changes",450,4301211
+1367131,Asthma,"Inhalers, lifestyle changes",366,4302113
+1460946,Asthma,"Inhalers, lifestyle changes",237,4305742
+1567402,Diabetes,"Insulin therapy, dietary changes",454,4306873
+1943133,Asthma,"Inhalers, lifestyle changes",442,4309014
+1947974,Arthritis,"Physical therapy, anti-inflammatory medications",462,4310540
+1031698,Arthritis,"Physical therapy, anti-inflammatory medications",304,4312132
+1800412,Skin Cancer,"Surgery, radiation therapy",138,4312268
+1942609,Asthma,"Inhalers, lifestyle changes",427,4312595
+1123404,Skin Cancer,"Surgery, radiation therapy",469,4314085
+1770065,Arthritis,"Physical therapy, anti-inflammatory medications",428,4318019
+1604865,Arthritis,"Physical therapy, anti-inflammatory medications",364,4318757
+1539308,Asthma,"Inhalers, lifestyle changes",272,4319436
+1307663,Skin Cancer,"Surgery, radiation therapy",109,4323063
+1958262,Asthma,"Inhalers, lifestyle changes",296,4324377
+1658267,Skin Cancer,"Surgery, radiation therapy",374,4329448
+1406410,Skin Cancer,"Surgery, radiation therapy",105,4330612
+1580869,Arthritis,"Physical therapy, anti-inflammatory medications",402,4332674
+1277372,Asthma,"Inhalers, lifestyle changes",372,4333918
+1089661,Diabetes,"Insulin therapy, dietary changes",453,4334790
+1898574,Arthritis,"Physical therapy, anti-inflammatory medications",207,4337122
+1461843,Arthritis,"Physical therapy, anti-inflammatory medications",149,4339348
+1920227,Arthritis,"Physical therapy, anti-inflammatory medications",448,4339715
+1416113,Hypertension,"Medication management, lifestyle modifications",9,4340082
+1593906,Hypertension,"Medication management, lifestyle modifications",492,4340797
+1420677,Asthma,"Inhalers, lifestyle changes",481,4341633
+1618807,Arthritis,"Physical therapy, anti-inflammatory medications",486,4348182
+1408990,Diabetes,"Insulin therapy, dietary changes",204,4348386
+1906517,Arthritis,"Physical therapy, anti-inflammatory medications",297,4350162
+1081178,Hypertension,"Medication management, lifestyle modifications",283,4362699
+1988696,Arthritis,"Physical therapy, anti-inflammatory medications",134,4363965
+1563690,Arthritis,"Physical therapy, anti-inflammatory medications",375,4364477
+1426203,Arthritis,"Physical therapy, anti-inflammatory medications",409,4365555
+1329915,Arthritis,"Physical therapy, anti-inflammatory medications",353,4367169
+1403792,Diabetes,"Insulin therapy, dietary changes",250,4367554
+1346239,Asthma,"Inhalers, lifestyle changes",230,4370077
+1815432,Asthma,"Inhalers, lifestyle changes",8,4371084
+1147424,Asthma,"Inhalers, lifestyle changes",215,4371709
+1048761,Hypertension,"Medication management, lifestyle modifications",488,4372274
+1514662,Diabetes,"Insulin therapy, dietary changes",474,4375273
+1313128,Skin Cancer,"Surgery, radiation therapy",174,4379014
+1514291,Arthritis,"Physical therapy, anti-inflammatory medications",158,4380072
+1558880,Skin Cancer,"Surgery, radiation therapy",468,4380437
+1417486,Asthma,"Inhalers, lifestyle changes",169,4380862
+1657528,Hypertension,"Medication management, lifestyle modifications",322,4382169
+1121207,Arthritis,"Physical therapy, anti-inflammatory medications",73,4382693
+1167932,Asthma,"Inhalers, lifestyle changes",30,4384938
+1187718,Asthma,"Inhalers, lifestyle changes",312,4386870
+1415804,Diabetes,"Insulin therapy, dietary changes",263,4394904
+1188752,Hypertension,"Medication management, lifestyle modifications",145,4405845
+1961605,Asthma,"Inhalers, lifestyle changes",112,4407963
+1303154,Skin Cancer,"Surgery, radiation therapy",181,4408732
+1140047,Diabetes,"Insulin therapy, dietary changes",441,4416835
+1513568,Hypertension,"Medication management, lifestyle modifications",76,4416891
+1980698,Hypertension,"Medication management, lifestyle modifications",178,4422673
+1583601,Hypertension,"Medication management, lifestyle modifications",20,4423054
+1268038,Diabetes,"Insulin therapy, dietary changes",175,4424471
+1931833,Asthma,"Inhalers, lifestyle changes",164,4428811
+1052086,Asthma,"Inhalers, lifestyle changes",317,4431076
+1843377,Hypertension,"Medication management, lifestyle modifications",86,4431413
+1198130,Hypertension,"Medication management, lifestyle modifications",387,4432106
+1396941,Skin Cancer,"Surgery, radiation therapy",45,4434282
+1334803,Asthma,"Inhalers, lifestyle changes",484,4437011
+1136327,Arthritis,"Physical therapy, anti-inflammatory medications",371,4441033
+1536843,Asthma,"Inhalers, lifestyle changes",2,4445348
+1827184,Hypertension,"Medication management, lifestyle modifications",397,4448999
+1986159,Skin Cancer,"Surgery, radiation therapy",153,4449656
+1208097,Hypertension,"Medication management, lifestyle modifications",151,4450899
+1846840,Arthritis,"Physical therapy, anti-inflammatory medications",420,4451443
+1803170,Hypertension,"Medication management, lifestyle modifications",60,4452242
+1652678,Arthritis,"Physical therapy, anti-inflammatory medications",285,4452493
+1648865,Diabetes,"Insulin therapy, dietary changes",98,4455741
+1435750,Arthritis,"Physical therapy, anti-inflammatory medications",53,4457114
+1004872,Arthritis,"Physical therapy, anti-inflammatory medications",69,4459067
+1017995,Arthritis,"Physical therapy, anti-inflammatory medications",214,4459309
+1023202,Asthma,"Inhalers, lifestyle changes",282,4460962
+1230221,Hypertension,"Medication management, lifestyle modifications",499,4461941
+1547822,Skin Cancer,"Surgery, radiation therapy",429,4463291
+1401190,Hypertension,"Medication management, lifestyle modifications",411,4464500
+1409675,Hypertension,"Medication management, lifestyle modifications",235,4465148
+1401048,Hypertension,"Medication management, lifestyle modifications",38,4467469
+1098292,Diabetes,"Insulin therapy, dietary changes",341,4468847
+1457585,Hypertension,"Medication management, lifestyle modifications",216,4473623
+1698762,Asthma,"Inhalers, lifestyle changes",249,4473731
+1469810,Skin Cancer,"Surgery, radiation therapy",302,4475772
+1104901,Diabetes,"Insulin therapy, dietary changes",166,4482714
+1300426,Hypertension,"Medication management, lifestyle modifications",217,4484584
+1475090,Hypertension,"Medication management, lifestyle modifications",193,4487508
+1141738,Arthritis,"Physical therapy, anti-inflammatory medications",261,4489584
+1010984,Asthma,"Inhalers, lifestyle changes",445,4492252
+1842600,Asthma,"Inhalers, lifestyle changes",23,4495205
+1886138,Arthritis,"Physical therapy, anti-inflammatory medications",301,4498266
+1232304,Asthma,"Inhalers, lifestyle changes",266,4499593

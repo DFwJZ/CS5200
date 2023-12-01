@@ -1,0 +1,64 @@
+[
+  {
+    "comments": "Contains patient information, including personal details and insurance information.",
+    "PatientID": "1547822",
+    "Name": "Victoria Mclean",
+    "DateOfBirth": "2054-03-26",
+    "Address": "P.O. Box 710, 2523 Curabitur Av.",
+    "InsuranceID": "2521484"
+  },
+
+  {
+    "comments": "Stores information about doctors, including their schedule and whether they provide primary care.",
+    "DoctorID": "429",
+    "Name": "Charde Clayton",
+    "Schedule": "13-14pm",
+    "PrimaryCare": false
+  },
+
+  {
+    "comments": "Details of appointments linking patients with doctors, including the date and time of the appointment.",
+    "AppointmentID": "3003871",
+    "PatientID": "1547822",
+    "DoctorID": "429",
+    "Date": "2013-07-19",
+    "Time": ""
+  },
+
+  {
+    "comments": "Contains billing information related to each patient, including amount due and payment status.",
+    "BillingID": "8794349",
+    "PatientID": "1547822",
+    "AmountDue": "3868",
+    "PaymentStatus": "Pending"
+  },
+
+  {
+    "comments": "Holds treatment plans for patients, detailing diagnosis and treatment methods, and linking to the responsible doctor.",
+    "TreatmentPlanID": "4463291",
+    "PatientID": "1547822",
+    "Diagnosis": "Skin Cancer",
+    "Treatment": "Surgery, radiation therapy",
+    "DoctorID": "429"
+  },
+
+  {
+    "comments": "Information about medical equipment including its name and availability status.",
+    "EquipmentID": "5001701",
+    "Name": "Ventilator",
+    "Availability": false
+  },
+
+  {
+    "comments": "Contains details about different departments within the medical facility, including location information.",
+    "DepartmentID": "6000358",
+    "Location": "Westside Medical Center"
+  },
+
+  {
+    "comments": "Stores information about administrative staff members, including their roles within the medical facility.",
+    "StaffID": "7001197",
+    "Name": "Michael Johnson",
+    "Role": "Compliance Officer"
+  }
+]
