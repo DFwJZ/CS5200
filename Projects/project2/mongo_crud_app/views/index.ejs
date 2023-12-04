@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/stylesheets/style.css" />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <p>Welcome to <%= title %></p>
+
+    <!-- Add Appointment Form -->
+    <form action="/add_appointment" method="POST">
+      <h3>Add New Appointment</h3>
+      <label for="patientId">Patient ID:</label>
+      <input type="text" id="patientId" name="patientId" required /><br />
+
+      <label for="patientName">Patient Name:</label>
+      <input type="text" id="patientName" name="patientName" required /><br />
+
+      <label for="doctorId">Doctor ID:</label>
+      <input type="text" id="doctorId" name="doctorId" required /><br />
+
+      <label for="doctorName">Doctor Name:</label>
+      <input type="text" id="doctorName" name="doctorName" required /><br />
+
+      <label for="date">Date:</label>
+      <input type="date" id="date" name="date" /><br />
+
+      <label for="time">Time:</label>
+      <input type="time" id="time" name="time" /><br />
+
+      <input type="submit" value="Add Appointment" />
+    </form>
+
+    <% if (appointments && appointments.length > 0) { %>
+    <h2>Appointment Details:</h2>
+    <ul>
+      <% appointments.forEach(function(appointment) { %>
+      <li>
+        <h3>
+          <a href="/appointment_detail/<%= appointment.appointment_id %>">
+            Appointment ID: <%= appointment.appointment_id %>
+          </a>
+        </h3>
+        <p>Patient ID: <%= appointment.patient?.PatientID %></p>
+        <p>Patient Name: <%= appointment.patient?.Name %></p>
+
+        <p>Doctor Name: <%= appointment.doctor.Name %></p>
+
+        <form
+          action="/delete_appointment/<%= appointment.appointment_id %>"
+          method="POST"
+        >
+          <button type="submit">Delete</button>
+        </form>
+      </li>
+      <% }) %>
+    </ul>
+    <% } else { %>
+    <p>No appointments found.</p>
+    <% } %>
+  </body>
+</html>
