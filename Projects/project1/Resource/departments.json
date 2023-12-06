@@ -1,0 +1,2002 @@
+[
+    {
+        "DepartmentID": 6000358,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6001457,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6001590,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6002578,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6003155,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6006427,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6007199,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6007250,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6009282,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6012059,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6012352,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6013844,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6017164,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6017684,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6017752,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6018110,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6019062,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6025262,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6027250,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6028623,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6029780,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6030480,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6032991,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6036436,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6038372,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6040596,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6043067,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6044794,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6045577,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6046338,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6051922,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6052036,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6053642,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6054748,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6055905,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6056716,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6058254,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6060338,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6060647,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6062208,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6064400,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6066257,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6072549,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6073204,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6075306,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6078593,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6079777,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6081748,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6087514,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6087553,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6087640,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6087898,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6091687,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6092133,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6095099,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6097859,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6101964,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6103106,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6106509,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6107031,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6107633,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6113747,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6121508,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6123293,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6125570,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6126526,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6135358,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6135423,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6135577,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6140014,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6140495,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6141236,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6141408,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6145152,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6146124,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6146160,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6146204,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6147625,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6147974,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6148922,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6151754,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6152161,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6153336,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6153441,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6155710,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6156477,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6156540,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6158434,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6161324,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6163853,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6165498,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6166794,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6167190,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6168658,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6169052,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6169664,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6171706,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6173792,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6174757,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6178828,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6182438,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6183282,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6192825,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6193181,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6195849,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6198697,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6199256,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6203012,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6204471,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6205262,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6206568,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6210140,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6213349,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6213801,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6214940,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6219123,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6219383,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6221233,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6223968,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6225445,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6228694,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6230235,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6233054,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6235178,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6235669,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6239176,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6240354,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6241201,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6250707,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6257100,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6259591,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6259923,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6260213,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6260216,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6260411,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6261071,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6261150,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6261460,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6262277,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6263243,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6268679,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6268881,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6269038,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6269463,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6277438,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6279056,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6280184,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6280490,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6281824,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6282762,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6285852,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6286364,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6288693,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6290078,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6290744,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6290961,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6292630,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6292862,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6292920,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6294565,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6296422,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6298720,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6305071,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6305354,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6311566,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6313366,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6313999,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6314141,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6317429,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6318054,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6318426,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6319709,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6319875,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6322165,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6327027,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6327176,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6327970,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6328360,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6331288,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6331960,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6337979,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6340776,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6344819,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6345161,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6346261,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6346999,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6348383,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6355672,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6356780,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6361120,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6362248,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6362449,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6368327,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6369386,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6371515,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6373975,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6377059,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6378568,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6379279,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6382896,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6383416,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6383780,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6384812,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6388615,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6388940,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6390830,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6390859,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6391682,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6393788,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6394936,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6398627,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6399718,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6399970,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6409575,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6410741,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6414551,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6418312,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6419636,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6420816,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6421712,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6427956,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6428644,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6428854,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6437958,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6438526,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6438763,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6440002,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6442752,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6443799,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6445065,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6445329,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6445545,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6450044,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6452614,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6454905,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6456858,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6462724,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6466185,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6466633,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6466677,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6467886,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6469459,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6471935,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6472095,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6472419,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6472483,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6479686,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6481503,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6485129,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6485515,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6486114,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6486808,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6487056,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6487951,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6492609,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6493987,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6494291,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6495951,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6497226,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6497693,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6498591,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6498768,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6501430,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6501439,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6505939,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6505961,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6509215,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6510202,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6511368,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6512509,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6517776,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6530378,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6532196,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6534377,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6536503,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6536913,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6539905,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6544443,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6544624,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6546752,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6547568,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6548816,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6554071,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6556622,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6559513,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6559558,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6560620,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6563512,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6564082,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6566529,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6567579,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6574528,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6574645,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6581066,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6583396,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6583810,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6587656,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6590168,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6590433,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6593712,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6594818,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6595563,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6600819,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6601391,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6602003,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6606821,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6607076,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6607732,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6609810,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6614100,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6614729,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6616681,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6619308,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6619319,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6619895,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6621405,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6621834,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6627689,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6631103,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6631507,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6631884,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6632839,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6633551,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6637517,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6638500,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6638541,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6639594,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6644692,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6646720,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6652904,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6653266,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6657336,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6657958,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6659887,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6665828,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6665966,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6667925,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6670492,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6671213,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6671744,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6673788,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6675743,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6675918,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6677846,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6678992,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6679174,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6680219,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6680443,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6685783,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6695365,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6702169,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6703484,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6704613,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6707006,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6707411,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6711757,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6712209,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6713074,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6714708,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6722949,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6725613,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6727840,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6729395,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6729477,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6729784,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6729849,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6732220,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6735742,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6736052,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6741504,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6743065,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6743612,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6749490,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6751640,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6751653,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6756013,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6756447,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6758157,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6759024,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6759887,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6760104,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6761283,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6763193,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6769041,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6770691,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6770772,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6772759,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6772959,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6773730,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6774128,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6774637,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6775906,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6778238,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6778904,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6779677,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6780318,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6781361,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6784357,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6786919,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6793328,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6799697,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6800422,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6802007,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6802148,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6802254,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6806816,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6808266,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6808789,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6809112,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6811307,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6813612,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6817213,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6818675,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6819025,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6820595,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6821890,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6822625,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6825553,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6826237,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6827170,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6827273,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6827565,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6830349,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6833112,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6848770,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6850142,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6859401,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6865513,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6866591,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6870682,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6876497,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6880910,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6881413,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6885138,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6886747,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6888450,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6889964,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6892379,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6896048,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6896141,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6897684,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6898823,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6902663,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6906324,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6910107,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6910513,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6910823,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6912353,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6914280,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6915314,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6915790,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6917303,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6918293,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6919665,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6920819,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6923304,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6924679,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6926236,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6926659,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6928469,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6929389,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6929869,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6930938,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6933357,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6934350,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6936140,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6936292,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6936751,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6936826,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6938207,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6941340,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6941981,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6942464,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6942706,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6942816,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6948117,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6948840,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6952234,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6955168,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6961393,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6963059,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6963932,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6964820,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6967124,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6970772,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6971099,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6971265,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6975643,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6975991,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6976696,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6979175,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6980390,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6985495,
+        "Location": "Northside Specialty Clinic"
+    },
+    {
+        "DepartmentID": 6985729,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6986029,
+        "Location": "Main Campus"
+    },
+    {
+        "DepartmentID": 6993152,
+        "Location": "Westside Medical Center"
+    },
+    {
+        "DepartmentID": 6993230,
+        "Location": "Downtown Clinic"
+    },
+    {
+        "DepartmentID": 6993412,
+        "Location": "Southside Family Clinic"
+    },
+    {
+        "DepartmentID": 6995519,
+        "Location": "Riverside Health Complex"
+    },
+    {
+        "DepartmentID": 6995952,
+        "Location": "Northside Specialty Clinic"
+    }
+]

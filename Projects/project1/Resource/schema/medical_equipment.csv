@@ -1,0 +1,501 @@
+EquipmentID,Name,Availability
+5172844,MRI Machine,False
+5826003,Ultrasound Machine,False
+5596996,X-Ray Machine,True
+5468376,MRI Machine,True
+5562550,Ultrasound Machine,True
+5943054,Ultrasound Machine,True
+5543133,Ventilator,True
+5309651,Ultrasound Machine,True
+5621386,Ultrasound Machine,True
+5758134,X-Ray Machine,False
+5889101,X-Ray Machine,False
+5089166,Defibrillator,False
+5051647,Ventilator,False
+5443800,X-Ray Machine,True
+5049654,Defibrillator,False
+5716103,Defibrillator,True
+5813065,Defibrillator,False
+5930770,CT Scanner,True
+5950181,X-Ray Machine,False
+5444888,MRI Machine,False
+5541964,Ultrasound Machine,False
+5117557,Defibrillator,True
+5563658,CT Scanner,True
+5697825,Ultrasound Machine,True
+5207723,Ventilator,True
+5864507,Ventilator,True
+5532550,MRI Machine,True
+5410321,Ultrasound Machine,True
+5271023,X-Ray Machine,True
+5083359,Defibrillator,True
+5824046,Ventilator,True
+5637272,CT Scanner,False
+5575837,Ultrasound Machine,False
+5847946,Ultrasound Machine,True
+5783601,X-Ray Machine,False
+5078927,Defibrillator,True
+5389728,CT Scanner,False
+5207573,Ventilator,True
+5473851,X-Ray Machine,True
+5845558,CT Scanner,True
+5555635,X-Ray Machine,True
+5961671,Defibrillator,True
+5742784,X-Ray Machine,True
+5144375,Defibrillator,True
+5706375,Ventilator,True
+5687314,Defibrillator,False
+5718681,X-Ray Machine,True
+5228873,Defibrillator,False
+5346270,CT Scanner,False
+5364074,CT Scanner,True
+5200547,Ultrasound Machine,True
+5606254,Ultrasound Machine,True
+5333731,Ventilator,True
+5532388,Ultrasound Machine,False
+5374471,X-Ray Machine,True
+5914584,MRI Machine,True
+5140098,Ultrasound Machine,True
+5897928,X-Ray Machine,False
+5129186,Defibrillator,True
+5204592,MRI Machine,True
+5283688,Defibrillator,False
+5229743,Defibrillator,False
+5197672,CT Scanner,True
+5923497,Ultrasound Machine,True
+5317683,X-Ray Machine,True
+5371089,Ultrasound Machine,False
+5457868,Defibrillator,False
+5564660,X-Ray Machine,True
+5940710,Ultrasound Machine,False
+5953610,MRI Machine,True
+5783473,Ultrasound Machine,True
+5059555,Defibrillator,True
+5374714,CT Scanner,True
+5078509,MRI Machine,False
+5228992,X-Ray Machine,True
+5890589,CT Scanner,False
+5236243,Defibrillator,True
+5259664,CT Scanner,False
+5224223,CT Scanner,True
+5882578,Ultrasound Machine,False
+5404130,Ultrasound Machine,False
+5687737,MRI Machine,True
+5082665,Ultrasound Machine,False
+5618682,Ventilator,True
+5338565,Defibrillator,False
+5689587,Defibrillator,False
+5671282,MRI Machine,True
+5361009,Ventilator,False
+5814678,CT Scanner,True
+5016798,CT Scanner,False
+5620986,CT Scanner,False
+5229394,Defibrillator,True
+5574006,MRI Machine,False
+5084412,Ventilator,False
+5448820,MRI Machine,False
+5151760,X-Ray Machine,False
+5595314,Defibrillator,True
+5136083,Ventilator,False
+5003313,Defibrillator,True
+5542568,Ventilator,False
+5252650,Defibrillator,True
+5323836,CT Scanner,False
+5259936,MRI Machine,False
+5671262,Defibrillator,False
+5433806,X-Ray Machine,True
+5459799,Ventilator,False
+5238076,MRI Machine,False
+5247706,Defibrillator,False
+5547305,Defibrillator,False
+5681575,CT Scanner,False
+5786731,CT Scanner,True
+5389424,Ventilator,False
+5815452,MRI Machine,True
+5284620,CT Scanner,False
+5403501,MRI Machine,False
+5393563,Ventilator,False
+5514681,Ventilator,True
+5266166,MRI Machine,True
+5131130,X-Ray Machine,True
+5797284,X-Ray Machine,False
+5119089,CT Scanner,True
+5936912,MRI Machine,True
+5479627,Defibrillator,False
+5875545,Defibrillator,False
+5415772,CT Scanner,False
+5203281,Defibrillator,True
+5381599,X-Ray Machine,True
+5666371,X-Ray Machine,True
+5136965,Ventilator,False
+5342953,CT Scanner,False
+5652306,Ultrasound Machine,True
+5437479,X-Ray Machine,False
+5822976,MRI Machine,True
+5688718,CT Scanner,True
+5403891,CT Scanner,True
+5925642,Ultrasound Machine,True
+5142910,Ultrasound Machine,False
+5186832,Ultrasound Machine,False
+5834627,Ventilator,True
+5937921,X-Ray Machine,False
+5774503,CT Scanner,False
+5965828,CT Scanner,False
+5952088,CT Scanner,True
+5133659,Defibrillator,True
+5876274,Ultrasound Machine,False
+5005699,Defibrillator,True
+5729457,CT Scanner,True
+5512390,Defibrillator,True
+5927318,Ventilator,True
+5063262,MRI Machine,False
+5692143,Defibrillator,False
+5464839,MRI Machine,False
+5828242,CT Scanner,False
+5265305,Ultrasound Machine,False
+5739520,Defibrillator,True
+5665750,Ventilator,False
+5314714,X-Ray Machine,False
+5192244,MRI Machine,True
+5442036,Ultrasound Machine,False
+5308058,CT Scanner,False
+5669764,X-Ray Machine,False
+5769517,Ultrasound Machine,False
+5300237,Ventilator,True
+5563051,Ventilator,False
+5001701,Ventilator,False
+5160628,MRI Machine,False
+5858278,CT Scanner,False
+5932634,Ventilator,False
+5503478,X-Ray Machine,False
+5699888,Ultrasound Machine,False
+5930499,Ultrasound Machine,False
+5514257,CT Scanner,True
+5921345,X-Ray Machine,False
+5484839,X-Ray Machine,False
+5870392,Ultrasound Machine,False
+5334136,Defibrillator,False
+5396236,Ventilator,True
+5753799,X-Ray Machine,False
+5961338,CT Scanner,True
+5484205,Defibrillator,False
+5901982,MRI Machine,False
+5433091,Defibrillator,True
+5722326,Defibrillator,False
+5673542,Ventilator,True
+5842035,Defibrillator,True
+5064470,MRI Machine,False
+5160529,MRI Machine,False
+5773045,CT Scanner,False
+5088699,CT Scanner,False
+5576905,X-Ray Machine,True
+5853288,CT Scanner,False
+5845278,Ultrasound Machine,True
+5945947,Ventilator,True
+5597305,Ventilator,False
+5839750,Ventilator,False
+5785106,MRI Machine,True
+5805759,CT Scanner,False
+5039997,Ventilator,False
+5580697,X-Ray Machine,False
+5508988,X-Ray Machine,False
+5381374,MRI Machine,False
+5288559,Defibrillator,False
+5864335,Ultrasound Machine,True
+5513495,CT Scanner,True
+5161486,X-Ray Machine,True
+5210903,X-Ray Machine,False
+5067584,X-Ray Machine,True
+5529013,Ventilator,False
+5152847,CT Scanner,True
+5275838,Ventilator,False
+5079621,Defibrillator,True
+5540915,Ventilator,True
+5077112,Defibrillator,True
+5662526,X-Ray Machine,True
+5463352,MRI Machine,True
+5999056,MRI Machine,True
+5228051,CT Scanner,True
+5152780,CT Scanner,False
+5091261,MRI Machine,True
+5633669,Ventilator,False
+5130030,X-Ray Machine,True
+5095571,Defibrillator,False
+5551560,X-Ray Machine,True
+5266398,Ventilator,False
+5612237,CT Scanner,True
+5319890,Ventilator,True
+5981953,Defibrillator,False
+5319058,Ventilator,False
+5157698,MRI Machine,True
+5134854,Ventilator,False
+5929557,CT Scanner,True
+5138598,Defibrillator,True
+5772436,Ventilator,False
+5616865,CT Scanner,False
+5150284,CT Scanner,False
+5698409,Ultrasound Machine,True
+5059496,X-Ray Machine,True
+5106747,Ventilator,False
+5058488,Ultrasound Machine,False
+5163346,MRI Machine,True
+5997274,CT Scanner,False
+5216459,Ventilator,False
+5637331,CT Scanner,True
+5511966,CT Scanner,False
+5627123,Defibrillator,True
+5330952,Ventilator,True
+5041234,Defibrillator,False
+5982188,Ventilator,False
+5364755,CT Scanner,True
+5140050,Defibrillator,False
+5641568,Defibrillator,False
+5217640,Defibrillator,True
+5374161,CT Scanner,False
+5154766,Ventilator,False
+5362438,Ventilator,True
+5871725,Ventilator,True
+5069260,MRI Machine,True
+5197913,Ventilator,False
+5432834,Ventilator,False
+5037630,Ultrasound Machine,False
+5094412,MRI Machine,True
+5664789,MRI Machine,True
+5724773,Ventilator,True
+5637562,Ultrasound Machine,True
+5846329,MRI Machine,True
+5799310,Ventilator,False
+5219923,X-Ray Machine,True
+5108113,MRI Machine,False
+5898168,MRI Machine,True
+5109608,CT Scanner,False
+5451854,MRI Machine,True
+5759819,X-Ray Machine,False
+5727223,Defibrillator,False
+5922625,MRI Machine,False
+5284095,Ventilator,True
+5266283,Ventilator,True
+5112720,MRI Machine,True
+5106325,Ventilator,True
+5938541,Defibrillator,True
+5211415,X-Ray Machine,False
+5669933,X-Ray Machine,True
+5780865,X-Ray Machine,True
+5492820,Defibrillator,True
+5798689,X-Ray Machine,True
+5514912,CT Scanner,True
+5900951,Ultrasound Machine,True
+5258562,Defibrillator,True
+5581658,Defibrillator,True
+5607264,X-Ray Machine,False
+5625148,MRI Machine,False
+5900134,X-Ray Machine,True
+5219704,Defibrillator,False
+5338697,MRI Machine,False
+5365485,Ventilator,True
+5175380,Defibrillator,False
+5830162,CT Scanner,False
+5315512,X-Ray Machine,False
+5710859,Defibrillator,False
+5620989,CT Scanner,True
+5342284,Ventilator,True
+5341068,Defibrillator,True
+5972511,Ultrasound Machine,False
+5254474,Ventilator,True
+5354561,Ventilator,False
+5056055,Ultrasound Machine,False
+5230995,MRI Machine,False
+5687129,Ventilator,True
+5289190,Defibrillator,False
+5984389,MRI Machine,False
+5304120,Defibrillator,True
+5399911,X-Ray Machine,False
+5471596,Ultrasound Machine,True
+5090224,CT Scanner,True
+5810743,Ventilator,False
+5868478,Ventilator,True
+5236902,X-Ray Machine,False
+5397429,Ultrasound Machine,True
+5397996,Ventilator,True
+5103680,CT Scanner,True
+5398229,Ultrasound Machine,False
+5905758,MRI Machine,True
+5298453,Ultrasound Machine,False
+5446352,CT Scanner,True
+5206686,Defibrillator,True
+5868745,Ventilator,False
+5179027,CT Scanner,True
+5483407,Ventilator,False
+5439079,CT Scanner,True
+5769658,MRI Machine,True
+5265393,Defibrillator,True
+5579134,MRI Machine,False
+5395510,Ventilator,False
+5500438,Ultrasound Machine,True
+5065792,Ultrasound Machine,True
+5626715,MRI Machine,False
+5033701,Defibrillator,False
+5463833,Ultrasound Machine,True
+5131072,X-Ray Machine,False
+5134947,Ultrasound Machine,False
+5944722,X-Ray Machine,True
+5819800,Ultrasound Machine,False
+5452082,CT Scanner,False
+5599609,Ventilator,False
+5499666,CT Scanner,True
+5267973,MRI Machine,False
+5161842,X-Ray Machine,True
+5156800,Ultrasound Machine,False
+5813722,Defibrillator,False
+5220948,Ventilator,True
+5252868,X-Ray Machine,True
+5601579,MRI Machine,True
+5090774,CT Scanner,True
+5275743,Defibrillator,False
+5116154,MRI Machine,True
+5164853,Ventilator,False
+5648868,X-Ray Machine,True
+5789213,X-Ray Machine,False
+5905264,Ventilator,True
+5979646,Ventilator,False
+5574161,CT Scanner,True
+5128788,MRI Machine,False
+5888005,Ultrasound Machine,False
+5959705,MRI Machine,True
+5534146,CT Scanner,True
+5203160,X-Ray Machine,True
+5788247,Ultrasound Machine,False
+5377831,Ultrasound Machine,True
+5084883,CT Scanner,False
+5363242,Defibrillator,True
+5952864,CT Scanner,True
+5935161,X-Ray Machine,True
+5181241,Defibrillator,True
+5844005,Defibrillator,False
+5496921,X-Ray Machine,False
+5692124,X-Ray Machine,True
+5798921,Ultrasound Machine,False
+5309206,Defibrillator,True
+5428012,Ultrasound Machine,False
+5865166,Ultrasound Machine,False
+5186146,Defibrillator,False
+5206818,Ventilator,False
+5379435,Ultrasound Machine,False
+5028334,CT Scanner,True
+5134691,Defibrillator,True
+5239017,Ventilator,True
+5769297,X-Ray Machine,False
+5473675,MRI Machine,False
+5530271,MRI Machine,True
+5534977,Ultrasound Machine,True
+5736138,CT Scanner,False
+5638455,Ventilator,False
+5421549,Ventilator,False
+5323993,Defibrillator,False
+5427493,MRI Machine,False
+5175516,Ventilator,False
+5294618,Defibrillator,False
+5769783,Ventilator,False
+5240770,Ventilator,True
+5755893,Ventilator,False
+5074771,MRI Machine,False
+5511916,Defibrillator,True
+5248351,Ultrasound Machine,True
+5366267,Ventilator,False
+5739797,MRI Machine,True
+5985458,Ventilator,True
+5707033,X-Ray Machine,False
+5683357,X-Ray Machine,True
+5561736,CT Scanner,False
+5157622,CT Scanner,True
+5646265,Defibrillator,False
+5481611,CT Scanner,True
+5682650,MRI Machine,True
+5304506,Ultrasound Machine,False
+5082606,Ultrasound Machine,False
+5133645,Defibrillator,False
+5857868,Defibrillator,False
+5065053,Ventilator,True
+5130195,CT Scanner,False
+5732305,Defibrillator,False
+5245214,Ultrasound Machine,True
+5945536,Ventilator,False
+5499194,Ultrasound Machine,True
+5954745,X-Ray Machine,False
+5599173,Defibrillator,False
+5382931,CT Scanner,False
+5572477,Ultrasound Machine,False
+5241351,MRI Machine,True
+5717300,Ventilator,False
+5264147,MRI Machine,True
+5461167,Defibrillator,True
+5169023,X-Ray Machine,True
+5407491,Ventilator,True
+5741766,Defibrillator,True
+5960432,X-Ray Machine,False
+5262735,X-Ray Machine,True
+5845499,MRI Machine,False
+5515327,Ultrasound Machine,True
+5333525,Ventilator,False
+5968578,X-Ray Machine,False
+5460745,X-Ray Machine,False
+5072496,Ultrasound Machine,True
+5737402,MRI Machine,True
+5811130,MRI Machine,False
+5697488,Ventilator,False
+5818442,MRI Machine,True
+5674301,Ventilator,False
+5252436,Defibrillator,False
+5911738,Ventilator,True
+5423313,Ventilator,True
+5589629,Ultrasound Machine,False
+5871085,MRI Machine,False
+5618663,MRI Machine,True
+5383054,Defibrillator,True
+5507823,CT Scanner,False
+5551219,X-Ray Machine,False
+5351564,Ventilator,True
+5696704,Ultrasound Machine,True
+5433592,X-Ray Machine,False
+5851449,MRI Machine,True
+5262583,CT Scanner,False
+5532587,MRI Machine,True
+5631042,CT Scanner,True
+5381442,Ultrasound Machine,True
+5205413,Defibrillator,False
+5603638,X-Ray Machine,True
+5219083,CT Scanner,True
+5968186,Ventilator,True
+5304581,MRI Machine,True
+5156495,X-Ray Machine,False
+5381481,Ultrasound Machine,True
+5454046,Ventilator,False
+5056439,MRI Machine,False
+5995973,X-Ray Machine,False
+5939833,X-Ray Machine,True
+5968594,Ventilator,True
+5305225,Defibrillator,False
+5883627,Defibrillator,True
+5751243,MRI Machine,True
+5837430,X-Ray Machine,True
+5274011,CT Scanner,False
+5603379,Ventilator,True
+5007253,X-Ray Machine,False
+5369837,Ventilator,True
+5220175,X-Ray Machine,False
+5751254,MRI Machine,True
+5575601,Ultrasound Machine,True
+5178900,Ventilator,False
+5043916,X-Ray Machine,False
+5675821,Ultrasound Machine,False
+5556236,Ultrasound Machine,False
+5056166,CT Scanner,True
+5900848,CT Scanner,False
+5931400,MRI Machine,False
+5622253,MRI Machine,False
+5038639,Defibrillator,False
+5172849,Defibrillator,False
+5994924,Defibrillator,True
+5405743,Ultrasound Machine,False
+5182070,MRI Machine,False
+5601975,MRI Machine,False
