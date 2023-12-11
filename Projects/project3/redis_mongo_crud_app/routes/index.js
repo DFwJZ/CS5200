@@ -1,12 +1,13 @@
-var express = require("express");
-var router = express.Router();
-var mu = require("../db/MongoUtils.js"); // Correct the path as necessary
+const express = require("express");
+const router = express.Router();
+const mu = require("../db/MongoUtils.js"); // Correct the path as necessary
+const ru = require("../db/RedisUtils.js"); // Correct the path as necessary
 
 router.get("/", async function (req, res, next) {
   try {
     const totalDocuments = await mu.countAppointments({}); // Count all documents
     const appointments = await mu.findAppointments({}); // Find appointments
-    console.log("totalDocuments:", mu.findAppointments);
+    console.log("totalDocuments:", totalDocuments);
 
     // Use totalDocuments and appointments in your response
     res.render("index", {
@@ -21,26 +22,44 @@ router.get("/", async function (req, res, next) {
 });
 
 // appointment details
-router.get("/appointment_detail/:id", async function (req, res, next) {
-  try {
-    const appoinment_id = req.params.id;
-    const appointmentDetails = await mu.findAppointmentById(appoinment_id);
 
-    if (appointmentDetails) {
+router.get("/appointment_detail/:id", async function (req, res, next) {
+  const appointmentId = req.params.id;
+  try {
+    // Try to get data from Redis cache
+    const cachedAppointment = await ru.getData(`appointment:${appointmentId}`);
+    if (cachedAppointment) {
+      // Cache hit
       res.render("appointment_detail", {
-        title: `Appointment Details - ${appoinment_id}`,
-        appointment: appointmentDetails,
+        title: `Appointment Details - ${appointmentId}`,
+        appointment: cachedAppointment,
       });
+      console.log("Cache hit for appointment:", appointmentId);
+      console.log("cachedAppointment:", cachedAppointment);
     } else {
-      res.status(404).send("Appointment not found");
+      // Cache miss, get data from MongoDB
+      console.log(
+        `Cache miss for appointment:${appointmentId}, adding to cache`
+      );
+      const appointmentDetails = await mu.findAppointmentById(appointmentId);
+      if (appointmentDetails) {
+        // Store in Redis for subsequent requests
+        await ru.setData(`appointment:${appointmentId}`, appointmentDetails);
+        res.render("appointment_detail", {
+          title: `Appointment Details - ${appointmentId}`,
+          appointment: appointmentDetails,
+        });
+      } else {
+        res.status(404).send("Appointment not found");
+      }
     }
   } catch (error) {
     console.error(error);
-    next(error); // Pass the error to the Express error handler
+    next(error);
   }
 });
 
-// add a new appointment
+// delete a new appointment
 router.post("/delete_appointment/:id", async function (req, res, next) {
   try {
     const appointment_id = req.params.id;
@@ -55,7 +74,7 @@ router.post("/delete_appointment/:id", async function (req, res, next) {
 // create an appointment
 router.post("/add_appointment", async function (req, res, next) {
   try {
-    // Generate a new appointment ID
+    // Generate a new appointment ID, needs to convert to string format
     const newAppointmentId = Math.floor(Math.random() * 1000000).toString();
 
     const newAppointment = {
@@ -75,6 +94,7 @@ router.post("/add_appointment", async function (req, res, next) {
       time: req.body.time,
     };
     await mu.addAppointment(newAppointment);
+    console.log("Created new appointment, id is:", newAppointmentId);
     res.redirect("/");
   } catch (error) {
     console.error(error);
