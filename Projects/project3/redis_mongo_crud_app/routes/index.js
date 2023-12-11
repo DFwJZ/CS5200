@@ -22,7 +22,6 @@ router.get("/", async function (req, res, next) {
 });
 
 // appointment details
-
 router.get("/appointment_detail/:id", async function (req, res, next) {
   const appointmentId = req.params.id;
   try {
@@ -63,7 +62,14 @@ router.get("/appointment_detail/:id", async function (req, res, next) {
 router.post("/delete_appointment/:id", async function (req, res, next) {
   try {
     const appointment_id = req.params.id;
+    const existinMongo = await mu.findAppointmentById(appointment_id);
+    if (!existinMongo) {
+      res.status(404).send("Appointment not found");
+    }
+
     await mu.deleteAppointment(appointment_id);
+    await ru.deleteData(`appointment:${appointment_id}`);
+
     res.redirect("/");
   } catch (error) {
     console.error(error);
@@ -95,6 +101,8 @@ router.post("/add_appointment", async function (req, res, next) {
     };
     await mu.addAppointment(newAppointment);
     console.log("Created new appointment, id is:", newAppointmentId);
+    await ru.setData(`appointment:${newAppointmentId}`, newAppointment);
+
     res.redirect("/");
   } catch (error) {
     console.error(error);
