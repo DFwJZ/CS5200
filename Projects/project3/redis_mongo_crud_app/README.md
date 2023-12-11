@@ -36,4 +36,4 @@ Redis is used to cache appointment details. When details of an appointment are r
 
 ## Example 
 
-![Demo How Redis Work in our environment] (/images/demo.png)
+![Demo How Redis Work in our environment] (./public/images/demo.png)
